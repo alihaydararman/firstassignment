@@ -15,6 +15,40 @@ body{
     text-decoration: none;
     border-radius: 10px;
 }
+
+/* buttom desin css */
+
+.button-div{
+    background-color: blanchedalmond;
+    width: 100%;
+    margin-left: 3px;
+    
+}
+button{
+    background-image: linear-gradient(#3EB8FB, #EBF8FF);
+    padding: 0  20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5px;
+    height: 50px;
+    margin-top: 15px;
+}
+.btton-design{
+    width: 75%;
+    margin-left: 8%;
+    
+}
+.btton-design img{
+    width: 60px;
+}
+.search-button{
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    
+}
+/* buttom desin css */
+
 /* header section css start */
 .header-div{
     width: 50%;
