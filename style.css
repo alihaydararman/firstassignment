@@ -31,7 +31,7 @@ body{
     font-size: 50px;
 }
 .header-section{
-    height: 550px;
+    height: 600px;
 }
 /* header section css end */
 
@@ -63,3 +63,78 @@ body{
 }
 
 /* mid section css end */
+
+/* mid text section css start */
+    .mid-text-div{
+        text-align: center;
+        margin-top: -60px;
+        
+    }
+    .mid-text-div h1{
+        font-size: 40px;
+        color: rgb(134, 132, 132);
+    }
+/* mid text section css end */
+
+
+
+/* mid image section css start */
+.mid-image-div{
+    width: 33.33%;
+    margin: 20px;
+    background-color: white;
+    height: 490px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 5px grey;
+}
+.mid-image-div img{
+    width: 85%;
+    padding-top: 30px;
+    
+    
+}
+
+.mid-image-section{
+    margin-left: 50px;
+    margin-right: 50px;
+   
+}
+
+/* mid image section css end */
+
+ /* social trafic css start */
+.social-trafic-div{
+    width: 33%;
+  
+}
+.social-trafic-div h1{
+    font-size: 40px;
+    margin-top: -7px;
+}
+.social-trafic-div p{
+    margin-top: -25px;
+}
+.social-trafic-section{
+    text-align: center;
+    margin: 60px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(223, 216, 216);
+    background-color: white;
+    height: fit-content;
+}
+.social-trafic-div img{
+    width: 15%;
+    margin-top: 20px;
+}
+  /* social trafic css end */
+
+/* footer section css start */
+  .footer-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+  }
+
+  /* footer section css end */
