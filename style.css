@@ -173,7 +173,20 @@ button{
     background-color: black;
     color: white;
     text-align: center;
-    height: 200px;
+    height: 250px;
   }
+ .subscrive h3{
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 18px;
+    text-decoration: none;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: 560px;
+ }
+ .subscrive input{
+     width: 300px;
+     height: 20px;
+     border-radius: 5px;
+ }
 
   /* footer section css end */
